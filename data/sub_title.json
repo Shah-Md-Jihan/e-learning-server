@@ -1,0 +1,218 @@
+[
+    {
+        "_id": "1",
+        "sub_title": "HTML Home",
+        "category_id": "1",
+        "details": "In this HTML tutorial, you will find more than 200 examples. With our online Try it Yourself editor, you can edit and test each example yourself!"
+    },
+    {
+        "_id": "2",
+        "sub_title": "HTML Introduction",
+        "category_id": "1",
+        "details": "HTML is the standard markup language for creating Web pages."
+    },
+    {
+        "_id": "3",
+        "sub_title": "HTML Basic",
+        "category_id": "1",
+        "details": "In this chapter we will show some basic HTML examples.Don't worry if we use tags you have not learned about yet."
+    },
+    {
+        "_id": "4",
+        "sub_title": "HTML Element",
+        "category_id": "1",
+        "details": "An HTML element is defined by a start tag, some content, and an end tag."
+    },
+    {
+        "_id": "5",
+        "sub_title": "HTML Attribute",
+        "category_id": "1",
+        "details": "HTML attributes provide additional information about HTML elements."
+    },
+    {
+        "_id": "6",
+        "sub_title": "HTML Headings",
+        "category_id": "1",
+        "details": "HTML headings are titles or subtitles that you want to display on a webpage."
+    },
+    {
+        "_id": "7",
+        "sub_title": "CSS Home",
+        "category_id": "2",
+        "details": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced."
+    },
+    {
+        "_id": "8",
+        "sub_title": "CSS Introduction",
+        "category_id": "2",
+        "details": "CSS is the language we use to style a Web page."
+    },
+    {
+        "_id": "9",
+        "sub_title": "CSS Syntax",
+        "category_id": "2",
+        "details": "A CSS rule consists of a selector and a declaration block."
+    },
+    {
+        "_id": "10",
+        "sub_title": "CSS Selector",
+        "category_id": "2",
+        "details": "We can divide CSS selectors into five categories: Simple selectors (select elements based on name, id, class)Combinator selectors (select elements based on a specific relationship between them)Pseudo-class selectors (select elements based on a certain state)Pseudo-elements selectors (select and style a part of an element)Attribute selectors (select elements based on an attribute or attribute value)This page will explain the most basic CSS selectors."
+    },
+    {
+        "_id": "11",
+        "sub_title": "CSS Color",
+        "category_id": "2",
+        "details": ""
+    },
+    {
+        "_id": "12",
+        "sub_title": "CSS Background",
+        "category_id": "2",
+        "details": "The CSS background properties are used to add background effects for elements."
+    },
+    {
+        "_id": "13",
+        "sub_title": "JS Home",
+        "category_id": "3",
+        "details": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced."
+    },
+    {
+        "_id": "14",
+        "sub_title": "JS Introduction",
+        "category_id": "3",
+        "details": "JavaScript and Java are completely different languages, both in concept and design.JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.ECMA-262 is the official name of the standard. ECMAScript is the official name of the language."
+    },
+    {
+        "_id": "15",
+        "sub_title": "JS Variable",
+        "category_id": "3",
+        "details": "Variables are containers for storing data (storing data values).4 Ways to Declare a JavaScript Variable:Using var, Using let, Using const, Using nothing"
+    },
+    {
+        "_id": "16",
+        "sub_title": "JS Operator",
+        "category_id": "3",
+        "details": "There are different types of JavaScript operators: Arithmetic Operators, Assignment Operators, Comparison Operators, Logical Operators, Conditional Operators, Type Operators"
+    },
+    {
+        "_id": "17",
+        "sub_title": "JS Data Types",
+        "category_id": "3",
+        "details": "JavaScript variables can hold different data types: numbers, strings, objects and more The Concept of Data Types In programming, data types is an important concept.To be able to operate on variables, it is important to know something about the type.Without data types, a computer cannot safely solve this"
+    },
+    {
+        "_id": "18",
+        "sub_title": "JS Function",
+        "category_id": "3",
+        "details": "A JavaScript function is a block of code designed to perform a particular task.A JavaScript function is executed when 'something' invokes it (calls it)."
+    },
+    {
+        "_id": "19",
+        "sub_title": "SQL Home",
+        "category_id": "4",
+        "details": "SQL is a standard language for storing, manipulating and retrieving data in databases.Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems."
+    },
+    {
+        "_id": "20",
+        "sub_title": "SQL Introduction",
+        "category_id": "4",
+        "details": "SQL is a standard language for accessing and manipulating databases.What is SQL? SQL stands for Structured Query Language SQL lets you access and manipulate databases SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987"
+    },
+    {
+        "_id": "21",
+        "sub_title": "SQL Slect",
+        "category_id": "4",
+        "details": "The SQL SELECT Statement The SELECT statement is used to select data from a database.The data returned is stored in a result table, called the result-set.Query Command: SELECT * FROM table_name;"
+    },
+    {
+        "_id": "22",
+        "sub_title": "SQL Delete",
+        "category_id": "4",
+        "details": "The DELETE statement is used to delete existing records in a table. Delete Query: DELETE FROM table_name WHERE condition;"
+    },
+    {
+        "_id": "23",
+        "sub_title": "SQL Update",
+        "category_id": "4",
+        "details": "The UPDATE statement is used to modify the existing records in a table. Update Query: UPDATE table_name SET column1 = value1, column2 = value2, ...WHERE condition;"
+    },
+    {
+        "_id": "24",
+        "sub_title": "SQL Insert",
+        "category_id": "4",
+        "details": "The INSERT INTO statement is used to insert new records in a table. Insert Query: INSERT INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...);"
+    },
+    {
+        "_id": "25",
+        "sub_title": "PHP Home",
+        "category_id": "5",
+        "details": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP."
+    },
+    {
+        "_id": "26",
+        "sub_title": "PHP Introduction",
+        "category_id": "5",
+        "details": "PHP is an amazing and popular language! It is powerful enough to be at the core of the biggest blogging system on the web (WordPress)! It is deep enough to run large social networks! It is also easy enough to be a beginner's first server side language!"
+    },
+    {
+        "_id": "27",
+        "sub_title": "PHP Variable",
+        "category_id": "5",
+        "details": "A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).Rules for PHP variables:A variable starts with the $ sign, followed by the name of the variable,A variable name must start with a letter or the underscore character,A variable name cannot start with a number ,A variable name can only contain ,alpha-numeric characters and underscores (A-z, 0-9, and _ ).Variable names are case-sensitive ($age and $AGE are two different variables)"
+    },
+    {
+        "_id": "28",
+        "sub_title": "PHP Data Types",
+        "category_id": "5",
+        "details": "Variables can store data of different types, and different data types can do different things.PHP supports the following data types:String, Integer, Float (floating point numbers - also called double), Boolean, Array, Object, NULL, Resource"
+    },
+    {
+        "_id": "29",
+        "sub_title": "PHP String",
+        "category_id": "5",
+        "details": "A string is a sequence of characters, like 'Hello world!'."
+    },
+    {
+        "_id": "30",
+        "sub_title": "PHP Number",
+        "category_id": "5",
+        "details": "One thing to notice about PHP is that it provides automatic data type conversion. So, if you assign an integer value to a variable, the type of that variable will automatically be an integer. Then, if you assign a string to the same variable, the type will change to a string. This automatic conversion can sometimes break your code."
+    },
+    {
+        "_id": "31",
+        "sub_title": "REACT Home",
+        "category_id": "6",
+        "details": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components."
+    },
+    {
+        "_id": "32",
+        "sub_title": "REACT Introduction",
+        "category_id": "6",
+        "details": "React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook. React is a tool for building UI components."
+    },
+    {
+        "_id": "33",
+        "sub_title": "REACT Installation",
+        "category_id": "6",
+        "details": "Create React App command: npx create-react-app my-app, cd my-app, npm start"
+    },
+    {
+        "_id": "34",
+        "sub_title": "REACT JSX",
+        "category_id": "6",
+        "details": "JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React."
+    },
+    {
+        "_id": "35",
+        "sub_title": "REACT Component",
+        "category_id": "6",
+        "details": "Components are like functions that return HTML elements."
+    },
+    {
+        "_id": "36",
+        "sub_title": "REACT Router",
+        "category_id": "6",
+        "details": "Create React App doesn't include page routing. React Router is the most popular solution."
+    }
+]

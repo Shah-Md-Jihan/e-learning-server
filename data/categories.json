@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+        "title": "HTML",
+        "description": "The language for building web pages"
+    },
+    {
+        "_id": "2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "title": "CSS",
+        "description": "The language for styling web pages"
+    },
+    {
+        "_id": "3",
+        "img": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+        "title": "JAVASCRIPT",
+        "description": "The language for programming web pages"
+    },
+    {
+        "_id": "4",
+        "img": "data:image/png;base64,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",
+        "title": "SQL",
+        "description": "A language for accessing databases"
+    },
+    {
+        "_id": "5",
+        "img": "https://assets.zabbix.com/img/brands/php.svg",
+        "title": "PHP",
+        "description": "A web server programming language"
+    },
+    {
+        "_id": "6",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        "title": "REACT",
+        "description": "React is a JavaScript library for building user interfaces."
+    }
+]
